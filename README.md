@@ -1,2 +1,9 @@
-# sentence_splitter
-tokenization &amp; sentence segmentation for Russian
+# Этапы и компоненты
+
+#### Графематическая нормализация
+
+#### Токенизация
+
+#### Сегментация на предложения
+
+#### Темтирование
