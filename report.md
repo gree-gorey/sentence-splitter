@@ -7,6 +7,10 @@
 2. [Описание общей архитектуры системы](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Описание-общей-архитектуры-системы)
   * [формат входных и выходных данных](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Формат-входных-и-выходных-данных)
   * [основные этапы, компоненты](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Этапы-и-компоненты)
+    * [графематическая нормализация](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Графематическая-нормализация)
+    * [токенизация](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Токенизация)
+    * [сегментация на предложения](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Сегментация-на-предложения)
+    * [тестирование](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Тестирование)
   * [параметры](https://github.com/gree-gorey/sentence_splitter/blob/master/report.md#Параметры)
 
 ## Аналитическая записка
